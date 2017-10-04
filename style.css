@@ -1,0 +1,18 @@
+body {
+    width: 960px;
+    margin: auto;
+    font-family: sans-serif;
+    font-size: 1.1em;
+}
+
+.html-pic {
+    width: 250x;
+    height: 250px;
+    float: left;
+}
+
+.css-pic {
+    width: 250x;
+    height: 250px;
+    float: right
+}
